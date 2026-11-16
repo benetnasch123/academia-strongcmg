@@ -8,7 +8,7 @@
    Ele NÃO corresponde ao telefone do rodapé, (12) 99640-5400.
    Confirme o número correto e atualize aqui (formato: 55 + DDD + número,
    apenas dígitos) e também nos href do index.html. */
-const WHATSAPP_NUMBER = '5511999999999';
+const WHATSAPP_NUMBER = '5512996405400';
 
 (function () {
   'use strict';
